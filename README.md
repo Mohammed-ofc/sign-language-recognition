@@ -57,7 +57,8 @@ sign_language_recognition/
 
 Mohammed Salman
 📧 mohammed.salman.p.2004@gmail.com
-🔗 LinkedIn • 🌐 GitHub
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-salman-p-484a9431b/)
+🌐 [GitHub](https://github.com/Mohammed-ofc)
 
 ---
 
